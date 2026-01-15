@@ -1,4 +1,4 @@
-# Proyecto ABC - Rescate y Finalización 🚀
+# Proyecto ABC - Equipo 2 - Frutas y Verduras 🥬🍓🚀
 
 Este repositorio contiene el código del sitio web **"ABC"**, cuya fase de desarrollo final fue asumida por nuestro equipo técnico.
 El proyecto ha sido saneado, corregido y completado bajo una metodología rápida.
