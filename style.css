@@ -4,15 +4,40 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: gray;
+}
 .container {
-  display: flexbox;
-  flex-direction: column;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 20px;
+  padding: 20px;
 }
 .carta {
-  width: 100px;
+  display: grid;
+  justify-content: center;
+  width: 150px;
+  background-color: white;
+  border-radius: 10%;
 }
 
-img {
+.carta h3 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.carta h5 {
+  text-align: center;
+  font-size: 1rem;
+  padding-bottom: 20px;
+}
+
+.carta img {
   width: 100px;
-  height: 100%;
+  height: 100px;
+}
+
+h1 {
+  text-align: center;
 }
