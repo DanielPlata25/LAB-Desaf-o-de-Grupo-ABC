@@ -37,6 +37,7 @@ body {
 .carta img {
   width: 100px;
   height: 100px;
+  padding-bottom: 10px;
 }
 
 h1 {
