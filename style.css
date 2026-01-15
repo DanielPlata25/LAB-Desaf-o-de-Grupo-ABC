@@ -42,3 +42,13 @@ body {
 h1 {
   text-align: center;
 }
+
+.azul {
+  color: blue;
+}
+.rojo {
+  color: red;
+}
+h3 {
+  color: green;
+}
